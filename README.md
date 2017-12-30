@@ -8,6 +8,6 @@ Written using nano in UNIX environment.
 Usage: 
 - Type command "make" on command line to compile code.
 - > ./decode [text_file] [code_file]
-- e.g. > ./decode knuth knuth_code
+- > ./decode knuth knuth_code
 - > ./encode [chunk size (int)] [text_file] [message]
-- e.g. > ./encode 3 a_tale_of_two_cities.txt "Good judgement comes from experience, and experience comes from bad judgement."
+- > ./encode 3 a_tale_of_two_cities.txt "Good judgement comes from experience, and experience comes from bad judgement."
